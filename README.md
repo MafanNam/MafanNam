@@ -100,3 +100,7 @@ Here are some highlights from my professional experience in **FinTech** and **Hi
     <img src="https://www.codewars.com/users/Mafan/badges/large" alt="Codewars" />
   </a>
 </p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MafanNam&color=blueviolet&style=flat-square&label=Profile+Views" />
